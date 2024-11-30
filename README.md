@@ -4,6 +4,7 @@ Welcome to my professional portfolio a dynamic, interactive showcase of my journ
 
 
 
+
 Features
 
 - Responsive design that works on desktop and mobile
@@ -22,6 +23,9 @@ Features
 
 
 
+
+
+
 Technologies Used
 
 - React.js
@@ -33,6 +37,9 @@ Technologies Used
 - Node.js
 
 - npm
+
+
+
 
 
  Installation
@@ -51,6 +58,7 @@ Technologies Used
 
 
 
+
 Configuration
 
 - To customize the portfolio with your information:
@@ -62,6 +70,7 @@ Configuration
 - Update your personal information in relevant component files
 
 - Customize the styling to match your preferences
+
 
      
 
