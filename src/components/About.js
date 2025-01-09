@@ -13,7 +13,7 @@ const About = () => {
         <div className="about-details-container">
           <div className="about-containers">
             <div className="details-container">
-              <img src="/assets/images/education.png" alt="Education icon" className="icon" />
+              <img src={EDU} alt="Education icon" className="icon" />
               <h3>Education</h3>
               <p>B.Sc. Bachelor's Degree in Software Engineering</p>
             </div>
