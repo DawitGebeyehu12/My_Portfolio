@@ -1,4 +1,5 @@
 import React from 'react';
+import EDU from '../../assets/images/education.png';
 
 const About = () => {
   return (
@@ -11,7 +12,7 @@ const About = () => {
         <div className="about-details-container">
           <div className="about-containers">
             <div className="details-container">
-              <img src="/images/education.png" alt="Education icon" className="icon" />
+              <img src={EDU} alt="Education icon" className="icon" />
               <h3>Education</h3>
               <p>B.Sc. Bachelors Degree in software engineering</p>
             </div>
