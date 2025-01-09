@@ -6,12 +6,12 @@ const About = () => {
       <h1 className="title">About Me</h1>
       <div className="section-container">
         <div className="section__pic-container">
-          <img src="./images/about-pic.jpg" alt="Profile picture" className="about-pic" />
+          <img src="/images/about-pic.jpg" alt="Profile picture" className="about-pic" />
         </div>
         <div className="about-details-container">
           <div className="about-containers">
             <div className="details-container">
-              <img src="./images/education.png" alt="Education icon" className="icon" />
+              <img src="/images/education.png" alt="Education icon" className="icon" />
               <h3>Education</h3>
               <p>B.Sc. Bachelors Degree in software engineering</p>
             </div>
