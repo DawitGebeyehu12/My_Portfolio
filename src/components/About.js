@@ -1,5 +1,6 @@
 import React from 'react';
-import EDU from '../../assets/images/education.png';
+import EDU from '../assets/education.png';
+import AB from '../assets/about-pic.jpg';
 
 const About = () => {
   return (
@@ -7,7 +8,7 @@ const About = () => {
       <h1 className="title">About Me</h1>
       <div className="section-container">
         <div className="section__pic-container">
-          <img src="/images/about-pic.jpg" alt="Profile picture" className="about-pic" />
+          <img src={AB} alt="Profile picture" className="about-pic" />
         </div>
         <div className="about-details-container">
           <div className="about-containers">
