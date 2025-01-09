@@ -13,16 +13,16 @@ const About = () => {
         <div className="about-details-container">
           <div className="about-containers">
             <div className="details-container">
-              <img src={EDU} alt="Education icon" className="icon" />
+              <img src="/assets/images/education.png" alt="Education icon" className="icon" />
               <h3>Education</h3>
-              <p>B.Sc. Bachelors Degree in software engineering</p>
+              <p>B.Sc. Bachelor's Degree in Software Engineering</p>
             </div>
           </div>
           <div className="text-container">
             <p>
-            A frontend software engineer who combines creativity with technical expertise, 
-            I build engaging web experiences using HTML, CSS, and JavaScript. I specialize in
-             creating website with React.js and enhance performance through Next.js. 
+              I am a frontend software engineer who combines creativity with technical expertise. 
+              I build engaging web experiences using HTML, CSS, and JavaScript. I specialize in
+              creating websites with React.js and enhancing performance through Next.js.
             </p>
           </div>
         </div>
